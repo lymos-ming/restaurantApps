@@ -1,0 +1,5 @@
+/.idea
+/.vscode
+*.log
+app-code/demo*
+*.DS_Store
